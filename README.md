@@ -1,5 +1,11 @@
 # Delphic
 
+https://medium.com/@scrudato/introducing-delphic-a-production-grade-starter-app-to-use-llms-to-query-your-own-documents-5c2462357b84
+
+https://www.reddit.com/r/django/comments/12tmsin/built_this_gptpowered_document_search_and/
+
+https://www.reddit.com/r/MachineLearning/comments/12tn34b/p_fullstack_llamaindex_app_to_build_and_query/
+
 ![](./docs/images/Delphic_Header.png)
 
 A simple framework to use LlamaIndex to build and deploy LLM agents that can be used to analyze and manipulate text data from documents.
